@@ -1,0 +1,34 @@
+
+.navbar {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    align-content: center;
+    color: #464EFF;
+    width: 947px;
+    height: 76px;
+    margin-left: 277px;
+    margin-top: 0px;    
+    box-sizing: border-box;
+}
+.nav{
+    .nav-item {
+    a:hover{
+        color: #464EFF;
+    }
+    }
+    }
+
+.navbar-logo {
+    display: flex;
+    margin-right: auto;
+}
+
+
+.nav .nav-item .nav-link {    
+   display: flex;
+   justify-content: space-around;
+   list-style: none;
+   color: #C2ACFF;
+}
+
